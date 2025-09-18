@@ -1,0 +1,4 @@
+tkinter
+requests
+fal-client
+Pillow

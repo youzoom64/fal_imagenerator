@@ -1,0 +1,18 @@
+{
+  "default": {
+    "mode": "text-to-image",
+    "model_endpoint": "fal-ai/flux/dev",
+    "model_display_name": "FLUX.1 [dev] - 高品質バランス型",
+    "prompt": "A beautiful landscape with mountains and cherry blossoms",
+    "negative_prompt": "",
+    "inference_steps": 28,
+    "guidance_scale": 3.5,
+    "num_images": 1,
+    "safety_checker": true,
+    "strength": 0.95,
+    "use_custom_size": false,
+    "image_size": "portrait_16_9",
+    "custom_width": 1024,
+    "custom_height": 768
+  }
+}

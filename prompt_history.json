@@ -1,0 +1,14 @@
+{
+  "prompts": [
+    {
+      "prompt": "Test prompt 2",
+      "negative_prompt": "",
+      "timestamp": "2025-09-18T22:17:12.174951"
+    },
+    {
+      "prompt": "Test prompt 1",
+      "negative_prompt": "Test negative 1",
+      "timestamp": "2025-09-18T22:17:12.173779"
+    }
+  ]
+}

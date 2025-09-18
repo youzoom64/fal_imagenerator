@@ -1,0 +1,95 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.next/
+out/
+coverage/
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+
+# === OS ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Logs / Temp ===
+*.log
+*.tmp
+*.temp
+*.cache/
+.cache/
+*.pid
+*.seed
+
+# === Git ===
+*.orig
+
+# === Media files (画像/動画/音声) ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+
+*.mp4
+*.mkv
+*.flv
+*.avi
+*.mov
+*.ts
+
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.m4a
+
+# === Project specific (examples) ===
+# OBS recordings
+*.flv
+*.mp4
+*.mkv
+*.ts
+
+# Bandicam captures
+Bandicam/
+
+# Local configs
+config/current_users.json
+.env
+config.json
