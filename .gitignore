@@ -94,4 +94,4 @@ config/current_users.json
 .env
 config.json
 
-lyrics_response/
+lyrics_response/lyrics_response/
